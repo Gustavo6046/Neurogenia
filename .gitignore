@@ -1,0 +1,8 @@
+/irc.yml
+/*.txt
+/*.db
+/*.pyc
+/commands/__pycache__
+/markov/*.mk5
+/.ipynb_checkpoints
+/__pycache__
